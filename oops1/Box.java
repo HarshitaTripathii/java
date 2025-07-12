@@ -1,6 +1,7 @@
 package oops1;
 public class Box {
-    int l, b, h;
+    private int l;
+    int  b, h;
     //constructor
     Box()
     {
